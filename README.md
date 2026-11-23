@@ -19,11 +19,13 @@ My background in Information Technology has given me hands-on experience in rela
 
 ### 📊 Featured Projects
 
-| Project | Role | Technologies | Key Contributions |
+| Project | Focus / Role | Technologies | Key Contributions |
 | :--- | :--- | :--- | :--- |
-| **P2SERVE Web & Database Portal** *(Repo Coming Soon)* | System Analyst & Database Developer | MySQL, SQL, PHP, HTML, CSS, JS | Designed an 8-table 3NF database, GCash payment reconciliation processes, and immutable audit logging for barangay e-services |
-| [**P2SERVE Desktop Portal**](https://github.com/EfrenLamosteJr/edoop_casestudy) | Back-End & GUI Developer | Python, CustomTkinter, MySQL | Built a desktop e-service portal with automated 6-digit email OTP verification, bcrypt authentication, and real-time KPI summary cards |
-| [**THEON Business Consultancy ERP**](https://github.com/EfrenLamosteJr/theon-system) | Database & Reporting Developer | C#, SQL, Relational Database | Modeled a 15-table internal/external ERP database and built a reporting dashboard tracking monthly and yearly business income |
+| **[Seattle Airbnb Market Analysis](https://github.com/EfrenLamosteJr/seattle-airbnb-analysis)** | Data Visualization & Market Analysis | Tableau Public, Excel | Built two interactive dashboards analyzing bedroom pricing, zip code rates, Superhost premiums, and 2016–2017 revenue trends. |
+| **[Bike Sales Exploratory Analysis (v1)](https://github.com/EfrenLamosteJr/excel-bike-sales-analysis)** | Data Cleaning & Dashboarding | Microsoft Excel (Pivot Tables, Slicers, `IF`) | Cleaned customer demographic records, engineered age brackets, and built an interactive slicer-driven sales dashboard. |
+| **[P2SERVE Desktop Portal](https://github.com/EfrenLamosteJr/edoop_casestudy)** | Back-End & GUI Developer | Python, CustomTkinter, MySQL | Built a desktop barangay e-service portal with 6-digit email OTP verification, `bcrypt` authentication, and real-time KPI cards. |
+| **[THEON Business Consultancy ERP](https://github.com/EfrenLamosteJr/theon-system)** | Database & Reporting Developer | C#, SQL, Microsoft Access | Modeled a 15-table relational ERP database and built a reporting dashboard tracking monthly and yearly business income. |
+| **P2SERVE Web & Database Portal** *(Coming Soon)* | System Analyst & Database Developer | MySQL, SQL, PHP, HTML, CSS, JS | Designed an 8-table 3NF database, GCash payment reconciliation workflows, and immutable audit logging. |
 
 ---
 
